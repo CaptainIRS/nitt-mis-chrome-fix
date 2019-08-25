@@ -1,7 +1,7 @@
 # NITT MIS Portal Chrome fix extension
 Chrome extension that fixes a bug that renders the MIS Portal useless for Chrome users
 
-# Install instructins:
+# Install instructions:
 * Click on "Clone or download" and select "Download ZIP" and save the downloaded zip.
 
 ![Image](https://i.imgur.com/pM17rYo.png)
