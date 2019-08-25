@@ -1,0 +1,16 @@
+{
+  "name": "NITT Chrome Fix",
+  "description" : "Fixes a bug that renders NITT MIS Portal unusable",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "nitt-chrome-fix.html",
+    "default_icon": "nitt-logo.png"
+  },
+  "manifest_version": 2,
+  "content_scripts": [
+   {
+     "matches": ["http://misnew.nitt.edu/*", "http://misreg.nitt.edu/*"],
+     "css": ["css.css"]
+   }
+ ]
+}
