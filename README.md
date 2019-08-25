@@ -8,7 +8,7 @@ Chrome extension that fixes a bug that renders the MIS Portal useless for Chrome
 * Extract the files to a folder
 * Open `chrome://extensions` from Chrome
 * Turn on developer mode
-* Click on "Load unpacked extension"
+* Click on "Load unpacked"
 * Select the folder which contains the extracted files
 * From now, every time you load the MIS Portal website, it should work properly.
 
